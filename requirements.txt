@@ -1,0 +1,6 @@
+moviepy
+imageio
+imageio-ffmpeg
+requests
+groq
+python-dotenv
